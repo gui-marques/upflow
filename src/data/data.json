@@ -1,0 +1,141 @@
+{
+    "Header": {
+        "name": "UpFlow",
+        "paragraph": "Sua estratégia de marketing em boas mãos.",
+        "img": "img/banner.gif"
+    },
+    "Sobre": {
+        "paragraph": "A UpFlow tem sua trajetória marcada pelo espírito empreendedor de seus diretores e pela dedicação de seus colaboradores, fatores fundamentais que permitiram à empresa conquistar confiança e respeito no seu segmento.",
+        "paragraph2": "A UpFlow é a escolha certa para empresas que desejam aumentar sua presença online e expandir seus negócios. Somos uma agência de marketing completa, com uma equipe de especialistas em estratégia, design, produção de conteúdo, SEO, publicidade online e análise de dados.",
+        "paragraph3": "Nós nos dedicamos a entender as necessidades e objetivos de cada cliente, personalizando nossas estratégias de marketing de acordo com suas metas específicas. Com a UpFlow, você pode esperar resultados comprovados, um atendimento excepcional e uma abordagem colaborativa para garantir que sua estratégia de marketing esteja alinhada com os objetivos do seu negócio.",
+        "paragraph4": "Nossa equipe usa tecnologia de ponta para otimizar e automatizar campanhas de marketing, tornando o processo mais eficiente e eficaz. Nós acreditamos na transparência e fornecemos relatórios detalhados e análises regulares para nossos clientes, permitindo que eles acompanhem e compreendam os resultados de suas campanhas de marketing.",
+        "paragraph5": "Não se contente com uma agência de marketing medíocre. Escolha a UpFlow e comece a ver o crescimento que seu negócio merece. Agende uma consulta hoje mesmo e descubra como podemos ajudá-lo a alcançar seus objetivos de marketing.",
+        "Why": [
+            "Confiança e respeito no seu segmento.",
+            "Relatórios mensais no desempenho da empresa.",
+            "Excelência com o publico em geral.",
+            "Credibilidade, sendo de urgência e agilidade 😉"
+        ],
+        "Why2": [
+            "Suporte rápido",
+            "Criatividade sempre em alta. ",
+            "Criamos um plano unico com a necessidade do cliente."
+            
+        ]
+       
+    },
+    "Services": [
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Marketing de mídia social",
+            "text": "Gerenciar e criar conteúdo para as redes sociais da empresa, interagindo com a audiência e criando campanhas pagas."
+        },
+        {
+            "icon": "fa fa-paint-brush",
+            "name": "Design gráfico",
+            "text": "Criar designs para identidade visual, materiais impressos, embalagens, websites e outros elementos de marketing."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Marketing de influência",
+            "text": " Identificar e trabalhar com influenciadores para promover a marca da empresa."
+        }
+    ],
+    "Planos": [
+        {
+            "img": "img/logo.png",
+            "name": "Media Basico",
+            "text": "Gerenciar e criar conteúdo para as redes sociais da empresa, interagindo com a audiência e criando campanhas pagas."
+        },
+        {
+            "img": "img/logo.png",
+            "name": "Media Pro",
+            "text": "Criar designs para identidade visual, materiais impressos, embalagens, websites e outros elementos de marketing."
+        },
+        {
+            "img": "img/logo.png",
+            "name": "Media Plus",
+            "text": " Identificar e trabalhar com influenciadores para promover a marca da empresa."
+            
+        }
+        
+    ],
+  
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "Nós da Odonto Excellence escolhemos a Evolution, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
+            "name": "Odonto Excellence"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/03.jpg",
+            "name": "Guilherme Marques",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Debora Cristina",
+            "job": "Diretriz de Marketing"
+        }
+    ],
+    "Contact": {
+        "address": "Web",
+        "phone": "+55 (41) 99578-9285",
+        "email": "upflowmarketing@upflowmarketing.net",        
+        "cnpj": "41.796.591/0001-32",
+        "facebook": "https://www.facebook.com/upflowmarketing",
+        "instagram": "https://www.instagram.com/up.flowmarketing/",
+        "whatsapp": "https://api.whatsapp.com/send?phone=5541995789285&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20"
+    },
+    "Features": [
+        {
+            "img": "img/2.jpg",
+            "icon": "fa fa-facebook-square",
+            "icon2": "fa fa-google-plus",
+            "icon3": "fa fa-instagram",
+            "title": "Marketing nas redes sociais",
+            "text": "O Marketing envolve a promoção de sua marca nos canais sociais, a fim de aumentar o reconhecimento da marca, direcionar o tráfego para seu site e gerar leads. Para isso, você pode criar posts em canais populares das redes sociais",
+            "link": ""
+        },
+        {
+            "img": "img/1.jpg",
+            "icon": "fa fa-desktop",
+            "title": "SEO (otimização para motores de busca)",
+            "text": "SEO (Search Engine Optimization) ou otimização para mecanismos de busca. São as ações que contribuem para melhorar o potencial de rankeamento de suas páginas e conteúdos, ajudando você a cumprir os principais pré-requisitos exigidos pelas plataformas de pesquisa."
+        },
+        {
+            "img": "img/3.jpg",
+            "icon": "fa fa-sitemap",
+            "title": "Publicidade nativa",
+            "text": "O objetivo da publicidade nativa é fazer com que os usuários cliquem no conteúdo que os levará à página da sua empresa. Se o conteúdo comercial anunciado for discreto e altamente relevante para o material em questão, os usuários podem ter mais interesse ​​em clicar."
+        },
+        {
+            "img": "img/4.jpg",
+            "icon": "fa fa-reddit",
+            "title": "Tráfego Orgânico/Pago",
+            "text": "Trafego Orgânico/Pago é a maneira que o cliente chega até você, com o trafego pago você leva a sua empresa até ele, com o orgânico você faz o cliente chegar até você, através de uma publicação, um histories e assim por diante."
+        }
+    ]
+}
