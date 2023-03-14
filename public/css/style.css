@@ -848,14 +848,69 @@ label {
 }
 
 
-
-@media (max-width: 768px) {
+@media (max-width: 2000px){
 	#menu img.logo {
-		width: 250px;
-		left: 30px;
-		top: -69px;
+		width: 200px;
+		left: 300px;
+		top: -40px;
 
 	}
+}
+@media (max-width: 1450px){
+	#menu img.logo {
+		width: 200px;
+		left: 230px;
+		top: -40px;
+
+	}
+	.intro a {
+		left: 8rem;
+	}
+}
+@media (max-width: 1280px){
+	#menu img.logo {
+		width: 200px;
+		left: 100px;
+		top: -40px;
+
+	}
+	.intro a {
+		left: 12rem;
+		top: 33rem;
+	}
+}
+@media (max-width: 1150px){
+	#menu img.logo {
+		width: 200px;
+		left: 100px;
+		top: -40px;
+
+	}
+	.intro a {
+		left: 11rem;
+		top: 28rem;
+	}
+}
+@media (max-width: 1000px){
+	#menu img.logo {
+		width: 150px;
+		left: 0px;
+		top: 10px;
+
+	}
+	.intro a {
+		left: 5rem;
+		top: 24rem;
+	}
+
+}
+@media (max-width: 900px) {
+	#menu img.logo {
+		display: none;
+		/* width: 250px;
+		left: 30px;
+		top: -69px; */
+		}
 
 	#menu a.navbar-brand {
 		display: none;
@@ -872,7 +927,7 @@ label {
 
 	.intro {
 		display: table;		
-		padding: 25px;
+		padding: 0;
 		background: url(../img/banner.gif) right no-repeat;
 		background-color: #0f0d0d;
 		-webkit-background-size: contain;
