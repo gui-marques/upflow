@@ -11,8 +11,7 @@ export const Header = (props) => {
                 <h1>             
                  
                 </h1>   
-                {' '}
-                {' '}           
+                       
                 <a 
                   href='#features'
                   className='btn-header btn btn-custom btn-lg page-scroll'
