@@ -218,7 +218,7 @@ hr {
 	margin-top: 8rem;
 }
 .btn-header {
-	position: absolute;
+	position: inline;
 	margin-left: -17rem;
 	margin-top: 8rem;
 }
@@ -257,7 +257,7 @@ a:focus,
 .intro {
 	display: table;
 	width: 100%;
-	padding: 4rem;
+	padding: 0rem;
 	background: url(../img/banner.gif) no-repeat;
 	background-position-y: 5rem;
 	background-position-x: 1rem;
@@ -351,8 +351,8 @@ header .intro-text {
 } */
 
 /* About Section */
-#about {
-	padding: 0;
+#about {	
+	padding: 3rem 0rem;
 	background-color: #070606;
 	border-color: rgba(4, 252, 252, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15)
@@ -916,7 +916,7 @@ label {
 		top: 35rem;
 	}
 }
-@media (max-width: 1180px){
+@media (max-width: 1200px){
 	#menu img.logo {
 		width: 200px;
 		left: 100px;
@@ -924,9 +924,22 @@ label {
 
 	}
 	.btn-header {
-		left: 33rem;
-		top: 30rem;
+		left: 28rem;
+		top: 34rem;
 	}
+}
+@media (max-width: 1100px){
+	#menu img.logo {
+		width: 150px;
+		left: 0px;
+		top: 10px;
+
+	}
+	.btn-header  {
+		left: 32rem;
+		top: 33rem;
+	}
+
 }
 @media (max-width: 1000px){
 	#menu img.logo {
@@ -936,11 +949,26 @@ label {
 
 	}
 	.btn-header  {
-		left: 27rem;
-		top: 25rem;
+		left: 35rem;
+		top: 30rem;
 	}
 
 }
+@media (max-width: 990px){
+	#menu img.logo {
+		width: 150px;
+		left: 0px;
+		top: 10px;
+
+	}
+	.btn-header  {
+		left: 27rem;
+		top: 28rem;
+		
+	}
+
+}
+
 @media (max-width: 900px) {
 	#menu img.logo {		
 		width: 150px;
