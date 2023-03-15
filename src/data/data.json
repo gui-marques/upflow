@@ -1,8 +1,8 @@
 {
     "Header": {
         "name": "UpFlow",
-        "paragraph": "Sua estratégia de marketing em boas mãos.",
-        "img": "img/banner.gif"
+        "paragraph": "Sua estratégia de marketing em boas mãos."
+       
     },
     "Sobre": {
         "paragraph": "A UpFlow tem sua trajetória marcada pelo espírito empreendedor de seus diretores e pela dedicação de seus colaboradores, fatores fundamentais que permitiram à empresa conquistar confiança e respeito no seu segmento.",
@@ -63,51 +63,31 @@
   
     "Testimonials": [
         {
-            "img": "img/testimonials/01.jpg",
-            "text": "Nós da Odonto Excellence escolhemos a Evolution, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
-            "name": "Odonto Excellence"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/01.png",
+            "text": "Nós da Farmácia Super Popular escolhemos a UpFlow, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
+            "name": "Farmácia Super Popular"
         }
     ],
     "Team": [
         {
-            "img": "img/team/03.jpg",
+            "img": "img/team/01.jpg",
             "name": "Guilherme Marques",
             "job": "CEO"
         },
         {
             "img": "img/team/02.jpg",
             "name": "Debora Cristina",
-            "job": "Diretriz de Marketing"
+            "job": "Co-CEO"
         }
     ],
     "Contact": {
         "address": "Web",
-        "phone": "+55 (41) 99578-9285",
-        "email": "upflowmarketing@upflowmarketing.net",        
+        "phone": "+55 (41) 99841-9824",
+        "email": "marketing@upflowmarketing.net",        
         "cnpj": "41.796.591/0001-32",
-        "facebook": "https://www.facebook.com/upflowmarketing",
+        "facebook": "https://www.facebook.com/people/Up-Flow/100090353110076/?mibextid=LQQJ4d",
         "instagram": "https://www.instagram.com/up.flowmarketing/",
-        "whatsapp": "https://api.whatsapp.com/send?phone=5541995789285&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20"
+        "whatsapp": "https://wa.me/5541998419824"
     },
     "Features": [
         {
