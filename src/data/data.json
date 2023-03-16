@@ -1,4 +1,11 @@
 {
+    "Widget": [
+        {
+            "name": "WhatSapp",
+            "img": "img/bwpp.png"      
+        }
+    ],
+
     "Header": {
         "name": "UpFlow",
         "paragraph": "Sua estratégia de marketing em boas mãos."
@@ -68,6 +75,7 @@
             "name": "Farmácia Super Popular"
         }
     ],
+  
     "Team": [
         {
             "img": "img/team/01.jpg",
