@@ -26,7 +26,7 @@ export const Planos = (props) => {
                                     <li><i className="fa fa-check-circle"></i>Indicação de clientes <br />(1 mês gratis para os dois)</li>
 
                                 </ul>
-                                <a target="blank" href="https://wa.me/5541995789285?text=Ol%C3%A1+Guilherme%2C+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+o+plano+B%C3%A1sico+da+UpFlow.">
+                                <a target="blank" href="https://wa.me/5541998419824">
                                 <button >Saiba mais</button>
                                 </a>
                             </div>
@@ -51,7 +51,7 @@ export const Planos = (props) => {
                                     <li><i className="fa fa-check-circle"></i>Planejamento mensal de conteúdo</li>
                                     <li><i className="fa fa-check-circle"></i>Copy para os criativos</li>
                                 </ul>
-                                <a target="blank" href="https://wa.me/5541995789285?text=Ol%C3%A1+Guilherme%2C+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+o+plano+Standard+da+UpFlow.">
+                                <a target="blank" href="https://wa.me/5541998419824">
                                 <button >Saiba mais</button>
                                 </a>
                             </div>
@@ -80,7 +80,7 @@ export const Planos = (props) => {
 
 
                                 </ul>
-                                <a target="blank" href="https://wa.me/5541995789285?text=Ol%C3%A1+Guilherme%2C+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+o+plano+Premium+da+UpFlow.">
+                                <a target="blank" href="https://wa.me/5541998419824">
                                 <button >Saiba mais</button>
                                 </a>
                             </div>
@@ -102,7 +102,7 @@ export const Planos = (props) => {
                                     <li><i className="fa fa-check-circle"></i>Padronização de Rede Social</li>
 
                                 </ul>
-                                <a target="blank" href="https://wa.me/5541995789285?text=Ol%C3%A1+Guilherme%2C+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+o+plano+Avulso+da+UpFlow.">
+                                <a target="blank" href="https://wa.me/5541998419824">
                                 <button >Saiba mais</button>
                                 </a>
                             </div>

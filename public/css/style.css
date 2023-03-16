@@ -82,7 +82,24 @@ hr {
 	margin-bottom: 20px;
 	border: 0;
 }
+.wpp{
+	width: 100px;
+		
+}
+.wpp:hover{
+	width: 160px;
+	transition: all 0.8s;
+		
+	
+}
 
+#widget{	
+	position: fixed;
+	bottom: 8px;
+	right: 0px;	
+	z-index: 9999;
+	cursor: pointer;	
+}
 /* Navigation */
 #menu {
 	padding: 15px;
@@ -1050,7 +1067,10 @@ label {
 		top: -35px;
 		}
 		
-
+		.wpp{
+			display: none;
+				
+		}
 	#menu a.navbar-brand {
 		display: none;
 		/* font-family: 'Raleway', sans-serif;
