@@ -84,13 +84,16 @@ hr {
 }
 .wpp{
 	width: 100px;
-		
+	animation: wpp 1.5s infinite alternate;
 }
-.wpp:hover{
-	width: 160px;
-	transition: all 0.8s;
-		
-	
+
+@keyframes wpp{
+	100%{
+		width: 150px;
+	} 
+	0%{
+
+	}
 }
 
 #widget{	
@@ -279,7 +282,8 @@ a:focus,
 	background-position-y: 5rem;
 	background-position-x: 1rem;
 	background-color: #070606;
-	background-size: cover;
+	background-size: 100%;
+	
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	-o-background-size: contain;
@@ -975,7 +979,7 @@ label {
 	#menu img.logo {
 		width: 150px;
 		left: 0px;
-		top: 35px;
+		top: -05px;
 
 	}
 	.btn-header  {

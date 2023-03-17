@@ -50,7 +50,7 @@ export const Navigation = (props) => {
                 Planos
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#testimonials' className='page-scroll'>
                 Clientes
               </a>
@@ -59,7 +59,7 @@ export const Navigation = (props) => {
               <a href='#team' className='page-scroll'>
                 Equipe
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#contact' className='page-scroll'>
                 Contato
