@@ -334,6 +334,8 @@ header .intro-text {
 	border-color: rgba(241, 243, 243, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
 	color: #000;
+	width: 100%;
+	height: 100%;
 
 }
  #features h2, h3 {
@@ -378,7 +380,9 @@ header .intro-text {
 	padding: 3rem 0rem;
 	background-color: #070606;
 	border-color: rgba(4, 252, 252, 0);
-	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15)
+	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
+	width: 100%;
+	
 }
 
 #about h3 {
@@ -437,7 +441,9 @@ header .intro-text {
 	background: linear-gradient(to right, #f8f8f8 0%, #f0f0f7 100%);
 	color: #0a0a0a;
 	border-color: rgba(13, 14, 14, 0);
-	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15)
+	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
+	width: 100%;
+	height: 100%;
 }
 
 #services .service-desc {
@@ -492,6 +498,7 @@ header .intro-text {
 	color: #ffffff;
 	border-color: rgba(4, 252, 252, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
+	
 
 }
 
