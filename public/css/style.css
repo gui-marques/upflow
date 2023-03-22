@@ -277,13 +277,11 @@ a:focus,
 .intro {
 	display: table;
 	width: 100%;
+	height: 100vh;
 	padding: 0rem;
-	background: url(../img/banner.gif) no-repeat;
-	background-position-y: 5rem;
-	background-position-x: 1rem;
+	background: url(../img/banner.gif) no-repeat;	
 	background-color: #070606;
-	background-size: 100%;
-	
+	background-size: 100%;	
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	-o-background-size: contain;
@@ -297,7 +295,7 @@ a:focus,
 
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
-	color: rgb(248, 244, 244);
+	color: rgb(10, 10, 10);
 	font-size: 82px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -332,22 +330,26 @@ header .intro-text {
 /* Features Section */
 #features {
 	padding: 100px 0;
-	background: #101011;
-	border-color: rgba(4, 252, 252, 0);
+	background: linear-gradient( #ededf0 0%, #eef8f8 100%);
+	border-color: rgba(241, 243, 243, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
+	color: #000;
 
 }
-
+ #features h2, h3 {
+	color: #000;
+}
 #features img {
 	font-size: 50px;
 	margin-bottom: 10px;
 	transition: all 0.5s;
-	color: #fff;
+	color: #111010;
 	width: 120px;
 	height: 120px;
 	padding: 20px 0;
 	border-radius: 100%;
-
+	border-color:  rgba(15, 15, 15, 0);
+	box-shadow: 12px rgba(15, 15, 15, 0.15);
 
 }
 
@@ -432,9 +434,9 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #0c0c0c 0%, #121213 100%);
-	color: #ffffff;
-	border-color: rgba(4, 252, 252, 0);
+	background: linear-gradient(to right, #f8f8f8 0%, #f0f0f7 100%);
+	color: #0a0a0a;
+	border-color: rgba(13, 14, 14, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15)
 }
 
@@ -443,7 +445,7 @@ header .intro-text {
 }
 
 #services h2 {
-	color: #fff;
+	color: #0f0f0f;
 }
 
 #services .section-title h2::after {
@@ -471,12 +473,12 @@ header .intro-text {
 #services h3 {
 	font-weight: 500;
 	padding: 5px 0;
-	color: #fff;
+	color: #0e0d0d;
 
 }
 
 #services p {
-	color: rgba(255, 255, 255, .75);
+	color: rgba(15, 15, 15, 0.75);
 }
 
 #services .service-desc {
@@ -699,10 +701,10 @@ header .intro-text {
 #contact {
 	padding: 100px 0 60px 0;
 	/* background: linear-gradient(to right, #7d89fc 0%, #5ca9fb 100%); */
-	color: rgba(255, 255, 255, .75);
+	color: rgba(8, 8, 8, 0.75);
 	border-color: rgba(4, 252, 252, 0);
 	box-shadow: 10px 0 0 3px rgba(2, 214, 252, 0.15);
-	background-color: #070606;
+	background-color: #f8f7f7;
 }
 
 #contact .section-title {
@@ -714,7 +716,7 @@ header .intro-text {
 }
 
 #contact h2 {
-	color: #fff;
+	color: #0c0b0b;
 	margin-top: 10px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
@@ -731,7 +733,7 @@ header .intro-text {
 }
 
 #contact h3 {
-	color: #fff;
+	color: #0c0c0c;
 	margin-top: 80px;
 	margin-bottom: 25px;
 	padding-bottom: 20px;
@@ -751,10 +753,11 @@ header .intro-text {
 	margin: 30px 0;
 	background: transparent;
 	border: 2px solid #3b9db6;
+	color: #0f0f0f;
 }
 
 #contact .btn-custom:hover {
-	color: rgb(6, 6, 7);
+	color: rgb(231, 231, 238);
 	background: #3b9db6;
 }
 
@@ -771,10 +774,10 @@ label {
 	padding: 6px 12px;
 	font-size: 16px;
 	line-height: 1.42857143;
-	color: #444;
-	background-color: #ffffff;
+	color: #161515;
+	background-color: #fcf4f4;
 	background-image: none;
-	border: 3px solid #18b6f5;
+	border: 3px solid #83d8fa;
 	border-radius: 8px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
@@ -811,7 +814,7 @@ label {
 }
 
 #contact .contact-item span {
-	color: rgb(245, 243, 243);
+	color: rgb(19, 18, 18);
 	margin-bottom: 10px;
 	display: block;
 }
@@ -837,8 +840,8 @@ label {
 	width: 48px;
 	height: 48px;
 	padding: 12px 0;
-	border: 2px solid #fff;
-	color: #fff;
+	border: 2px solid #141313;
+	color: #0c0b0b;
 	border-radius: 50%;
 	transition: all 0.3s;
 }
@@ -850,12 +853,12 @@ label {
 
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+	background: #070707;
 	padding: 10px 0;
 }
 
 #footer p {
-	color: #080808;
+	color: #f3eded;
 	font-size: 14px;
 }
 
@@ -868,12 +871,19 @@ label {
 }
 
 
-@media (max-width: 2000px){
+
+@media (max-width: 1920px){
 	#menu img.logo {
 		width: 200px;
-		left: 300px;
+		left: 230px;
 		top: -40px;
+
 	}
+	.btn-header {
+		left: 4rem;
+		top: 55rem;
+	}
+	
 }
 @media (max-width: 1800px){
 	#menu img.logo {
@@ -884,11 +894,11 @@ label {
 	}
 	.btn-header {
 		left: 8rem;
-		top: 35rem;
+		top: 48rem;
 	}
 	
 }
-@media (max-width: 1650px){
+@media (max-width: 1750px){
 	#menu img.logo {
 		width: 200px;
 		left: 230px;
@@ -896,24 +906,11 @@ label {
 
 	}
 	.btn-header {
-		left: 17rem;
-		top: 35rem;
-	}
-	
-}
-@media (max-width: 1490px){
-	#menu img.logo {
-		width: 200px;
-		left: 230px;
-		top: -40px;
-
-	}
-	.btn-header {
-		left: 25rem;
-		top: 35rem;
+		left: 10rem;
+		top: 40rem;
 	}
 }
-@media (max-width: 1350px){
+@media (max-width: 1600px){
 	#menu img.logo {
 		width: 200px;
 		left: 100px;
@@ -921,11 +918,11 @@ label {
 
 	}
 	.btn-header {
-		left: 30rem;
-		top: 35rem;
+		left: 19rem;
+		top: 46rem;
 	}
 }
-@media (max-width: 1280px){
+@media (max-width: 1440px){
 	#menu img.logo {
 		width: 200px;
 		left: 100px;
@@ -933,11 +930,11 @@ label {
 
 	}
 	.btn-header {
-		left: 35rem;
+		left: 24rem;
 		top: 35rem;
 	}
 }
-@media (max-width: 1200px){
+@media (max-width: 1360px){
 	#menu img.logo {
 		width: 200px;
 		left: 100px;
@@ -946,10 +943,10 @@ label {
 	}
 	.btn-header {
 		left: 28rem;
-		top: 34rem;
+		top: 35rem;
 	}
 }
-@media (max-width: 1100px){
+@media (max-width: 1280px){
 	#menu img.logo {
 		width: 150px;
 		left: 0px;
@@ -958,11 +955,11 @@ label {
 	}
 	.btn-header  {
 		left: 32rem;
-		top: 33rem;
+		top: 35rem;
 	}
 
 }
-@media (max-width: 1000px){
+@media (max-width: 1152px){
 	#menu img.logo {
 		width: 150px;
 		left: 0px;
@@ -970,12 +967,25 @@ label {
 
 	}
 	.btn-header  {
-		left: 35rem;
-		top: 30rem;
+		left: 28rem;
+		top: 32rem;
 	}
 
 }
-@media (max-width: 990px){
+@media (max-width: 1024px){
+	#menu img.logo {
+		width: 150px;
+		left: 0px;
+		top: -10px;
+
+	}
+	.btn-header  {
+		left: 33rem;
+		top: 27rem;
+	}
+
+}
+@media (max-width: 920px){
 	#menu img.logo {
 		width: 150px;
 		left: 0px;
@@ -984,12 +994,11 @@ label {
 	}
 	.btn-header  {
 		left: 27rem;
-		top: 28rem;
+		top: 23rem;
 		
 	}
 
 }
-
 @media (max-width: 900px) {
 	#menu img.logo {		
 		width: 150px;
@@ -1027,7 +1036,7 @@ label {
 	}
 
 }
-@media (max-width: 830px) {
+@media (max-width: 800px) {
 	#menu img.logo {		
 		width: 0;
 		left: -30px;

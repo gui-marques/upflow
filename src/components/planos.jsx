@@ -18,7 +18,7 @@ export const Planos = (props) => {
                             </div>
                             <div className="card-content">
                                 <ul>
-                                    <li><i className="fa fa-check-circle"></i>2 Posts por semana<br />(até 8 posts por mês)</li>
+                                    <li><i className="fa fa-check-circle"></i>3 Posts por semana<br />(até 12 posts por mês)</li>
                                     <li><i className="fa fa-check-circle"></i>Instagram e Facebook</li>
                                     <li><i className="fa fa-check-circle"></i>Arte (criativo) + Postagem <br /> (Feed, Stories e Reels)</li>
                                     <li><i className="fa fa-check-circle"></i>Padronização de Rede Social</li>
@@ -42,7 +42,7 @@ export const Planos = (props) => {
                             </div>
                             <div className="card-content">
                                 <ul>
-                                    <li><i className="fa fa-check-circle"></i>4 Posts por semana <br /> (até 12 posts por mês)</li>
+                                    <li><i className="fa fa-check-circle"></i>5 Posts por semana <br /> (até 20 posts por mês)</li>
                                     <li><i className="fa fa-check-circle"></i>Instagram e Facebook</li>
                                     <li><i className="fa fa-check-circle"></i>Arte (criativo) + Postagem <br />(Feed, Stories e Reels)</li>
                                     <li><i className="fa fa-check-circle"></i>Padronização de Rede Social</li>
@@ -67,7 +67,7 @@ export const Planos = (props) => {
                             </div>
                             <div className="card-content">
                                 <ul>
-                                    <li><i className="fa fa-check-circle"></i>6 Posts por semana <br /> (até 20 posts por mês)</li>
+                                    <li><i className="fa fa-check-circle"></i>6 Posts por semana <br /> (até 24 posts por mês)</li>
                                     <li><i className="fa fa-check-circle"></i>Instagram e Facebook</li>
                                     <li><i className="fa fa-check-circle"></i>Arte (criativo) + Postagem <br />(Feed, Stories e Reels)</li>
                                     <li><i className="fa fa-check-circle"></i>Padronização de Rede Social</li>
